@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "flexmod:block/flex_seal_block" }
+  }
+}

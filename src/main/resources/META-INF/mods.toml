@@ -1,0 +1,27 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[31,)"
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+
+modId="flexmod" #mandatory
+
+version="1.16.1 - Alpha Test Build 1" #mandatory
+
+displayName="Flex Tape Mod" #mandatory
+
+updateJSONURL="http://myurl.me/" #optional
+
+displayURL="http://example.com/" #optional
+
+logoFile="examplemod.png" #optional
+
+credits="Cy and only Cy" #optional
+
+authors="Ma nama Jeff" #optional
+
+description='''
+Hey Phil Swift here for Flex Tape Mod.
+'''
